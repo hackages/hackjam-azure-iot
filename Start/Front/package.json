@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "parcel index.html --open"
+    "start": "npm install && parcel index.html --open"
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^2.3.0",
